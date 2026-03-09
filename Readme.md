@@ -1,15 +1,16 @@
-# 👋 Hi, I'm Mahathir Mohammad
-
-![Mahathir Mohammad Banner](./banner.png)
+<div align="center">
+  <img src="./banner.png" alt="Mahathir Mohammad Banner" width="100%" />
+</div>
 
 <div align="center">
-  <h3>🚀 Full Stack Web Developer | MERN Stack Specialist</h3>
+  <h1>🚀 Full Stack Web Developer | MERN Stack Specialist</h1>
   <p>Building high-performance, scalable web applications with a focus on seamless user experiences and modern design.</p>
   
   <p align="center">
     <a href="https://devmahathir.netlify.app">🌍 Portfolio</a> •
     <a href="https://linkedin.com/in/mahathir-mohammad-4073b33b2/">🔗 LinkedIn</a> •
-    <a href="mailto:mahathirm880@gmail.com">📩 Email</a>
+    <a href="mailto:mahathirm880@gmail.com">📩 Email</a> •
+    <a href="https://e-commerce-eta-kohl-38.vercel.app/">🛍️ Volans</a>
   </p>
 </div>
 
@@ -66,14 +67,14 @@ I am a results-driven **Full Stack Developer** based in **Kushtia, Bangladesh**.
 
 ### 🚀 Featured Projects
 
-#### 🛍️ [Aura Store – Premium E-commerce Platform](https://github.com/grontho69)
+#### 🛍️ [Volans – Premium E-commerce Platform](https://e-commerce-eta-kohl-38.vercel.app/)
 *Full-stack Clothing Brand platform built with Next.js 14.*
 - **Features:** Dynamic Cart System, Admin Dashboard, Stripe Integration, NextAuth Authentication.
 - **Tech:** Next.js (App Router), MongoDB, Tailwind CSS, GSAP.
 
 #### 🎨 [ZenITH – Creative Developer Portfolio](https://devmahathir.netlify.app)
 *Ultra-modern interactive portfolio with cinematic animations.*
-- **Features:** Anti-gravity theme, Glassmorphism UI, Responsive Design, Smooth Scroll.
+- **Features:** Glassmorphism UI, Responsive Design, Smooth Scroll.
 - **Tech:** React, Framer Motion, GSAP, Tailwind CSS.
 
 ---
