@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Mahathir Mohammad Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/grontho69/grontho69/main/banner.png" alt="Mahathir Mohammad Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -35,13 +35,13 @@
 
 ### 🧑‍💻 About Me
 
-I am a passionate **Full Stack Developer** based in **Kushtia, Bangladesh**. I specialize in creating pixel-perfect, scalable web experiences using the **MERN** stack and **Next.js**.
+I am a passionate **Full Stack Developer** based in **Kushtia, Bangladesh**. I specialize in creating pixel-perfect, scalable web experiences using the **MERN** stack, **Next.js**, and modern backend architectures.
 
-- 🔭 **Currently building:** High-performance Full-Stack E-Commerce platforms & modern SaaS applications.
-- ⚡ **Leveling up on:** **TypeScript**, **SQL (PostgreSQL / MySQL)**, and advanced **Next.js 14/15 App Router & Server Actions**.
-- 🎨 **Creative Design:** Exploring advanced animations with **GSAP**, **Framer Motion**, and modern UI/UX design paradigms.
+- 🔭 **Currently building:** High-performance Full-Stack E-Commerce platforms & modern EdTech SaaS applications.
+- ⚡ **Leveling up on:** **TypeScript**, **PostgreSQL / SQL (Drizzle & Prisma ORM)**, and advanced **Next.js App Router & Server Actions**.
+- 🎨 **Creative Design:** Crafting interactive, smooth animations with **GSAP**, **Framer Motion**, and modern UI/UX design paradigms.
 - 💡 **Open to:** Exciting freelance opportunities, full-stack collaborations, and innovative open-source contributions.
-- 💬 **Ask me about:** React, Next.js, Node.js, Express, MongoDB, Tailwind CSS, or clean architecture.
+- 💬 **Ask me about:** React, Next.js, Node.js, Express, Fastify, MongoDB, PostgreSQL, Tailwind CSS, or clean architecture.
 - 📫 **Direct contact:** [mahathirm880@gmail.com](mailto:mahathirm880@gmail.com)
 
 ---
@@ -74,6 +74,7 @@ I am a passionate **Full Stack Developer** based in **Kushtia, Bangladesh**. I s
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -98,50 +99,54 @@ I am a passionate **Full Stack Developer** based in **Kushtia, Bangladesh**. I s
 
 <table>
   <tr>
+    <!-- Project 1: Volans -->
     <td width="50%" valign="top">
-      <h3 align="left">🛍️ <a href="https://e-commerce-eta-kohl-38.vercel.app/">Volans – E-Commerce Platform</a></h3>
-      <p><i>Full-stack modern clothing & apparel platform built for seamless shopping experiences.</i></p>
+      <h3 align="left">🛍️ <a href="https://e-commerce-eta-kohl-38.vercel.app/" target="_blank">Volans – E-Commerce Platform</a></h3>
+      <p><i>Full-stack modern clothing & apparel platform built for seamless shopping experiences with sleek micro-interactions.</i></p>
       <ul>
-        <li><b>Key Features:</b> Dynamic Cart & Checkout, Admin Management, Stripe Payment Gateway, Secure Auth.</li>
-        <li><b>Tech:</b> Next.js 14 (App Router), MongoDB, Tailwind CSS, GSAP</li>
+        <li><b>Key Features:</b> Dynamic Cart & Checkout, Admin Management, Stripe Payment Gateway, Secure Auth & Session Handling.</li>
+        <li><b>Tech Stack:</b> Next.js 14 (App Router), MongoDB, Tailwind CSS, GSAP</li>
       </ul>
       <p>
-        <a href="https://e-commerce-eta-kohl-38.vercel.app/">🔗 <b>Live Demo</b></a>
+        <a href="https://e-commerce-eta-kohl-38.vercel.app/" target="_blank">🔗 <b>Live Demo</b></a>
       </p>
     </td>
+    <!-- Project 2: EduTec 1.0 -->
     <td width="50%" valign="top">
-      <h3 align="left">🎨 <a href="https://devmahathir.netlify.app">ZenITH – Interactive Portfolio</a></h3>
-      <p><i>Ultra-modern developer portfolio featuring interactive cinematic micro-interactions.</i></p>
+      <h3 align="left">🎓 <a href="https://web-theta-jade-69.vercel.app/" target="_blank">EduTec 1.0 – STEM Exam Engine</a></h3>
+      <p><i>High-concurrency online admission exam platform with sub-millisecond ranking algorithms & zero-data-loss architecture.</i></p>
       <ul>
-        <li><b>Key Features:</b> Glassmorphic UI, responsive layouts, smooth scroll, dynamic theme animations.</li>
-        <li><b>Tech:</b> React, Framer Motion, GSAP, Tailwind CSS</li>
+        <li><b>Key Features:</b> Offline-resilient exam hall (IndexedDB), Anti-cheat proctoring engine, Top-K Min-Heap leaderboard, Topic Dependency DAG, dynamic KaTeX LaTeX rendering.</li>
+        <li><b>Tech Stack:</b> Next.js 15, React 19, TypeScript, Fastify 5, PostgreSQL, Drizzle ORM, KaTeX, Tailwind CSS</li>
       </ul>
       <p>
-        <a href="https://devmahathir.netlify.app">🔗 <b>Live Demo</b></a>
+        <a href="https://web-theta-jade-69.vercel.app/" target="_blank">🔗 <b>Live Demo</b></a> • <a href="https://github.com/grontho69/edu_tec_1.0" target="_blank">💻 <b>GitHub Repo</b></a>
       </p>
     </td>
   </tr>
   <tr>
+    <!-- Project 3: ZENJI -->
     <td width="50%" valign="top">
-      <h3 align="left">✨ <a href="#">Project Three (Coming Soon / Showcase)</a></h3>
-      <p><i>Full-stack application built with TypeScript, SQL, and modern API architecture.</i></p>
+      <h3 align="left">⛩️ <a href="https://zenji-project.vercel.app/" target="_blank">ZENJI (ゼンジ) – Cyberpunk Streetwear</a></h3>
+      <p><i>High-end cyberpunk & anime-inspired apparel store featuring heavyweight textiles (460–520 GSM) and tactical ergonomics.</i></p>
       <ul>
-        <li><b>Key Features:</b> RESTful / GraphQL API, role-based access control, relational database design.</li>
-        <li><b>Tech:</b> TypeScript, Next.js, PostgreSQL / SQL, Tailwind CSS</li>
+        <li><b>Key Features:</b> Multi-axis category & silhouette filter matrix, dynamic PDP with interactive size guide, Framer Motion slide-over cart with free shipping meter, gamified confetti checkout.</li>
+        <li><b>Tech Stack:</b> Next.js 14, React, TypeScript, Tailwind CSS, Zustand, Framer Motion, Canvas Confetti</li>
       </ul>
       <p>
-        <a href="#">🔗 <b>Live Demo</b></a> • <a href="#">💻 <b>GitHub Repo</b></a>
+        <a href="https://zenji-project.vercel.app/" target="_blank">🔗 <b>Live Demo</b></a> • <a href="https://github.com/grontho69/zenji-project" target="_blank">💻 <b>GitHub Repo</b></a>
       </p>
     </td>
+    <!-- Project 4: FoodFlow -->
     <td width="50%" valign="top">
-      <h3 align="left">⚡ <a href="#">Project Four (Coming Soon / Showcase)</a></h3>
-      <p><i>Scalable web application or real-time dashboard solution.</i></p>
+      <h3 align="left">🍽️ <a href="https://restuarent-website-flax.vercel.app/" target="_blank">FoodFlow – Restaurant & Delivery Platform</a></h3>
+      <p><i>Production-ready culinary operations & delivery ecosystem featuring dedicated workflows for customers, kitchens, and riders.</i></p>
       <ul>
-        <li><b>Key Features:</b> Interactive data visualization, authentication, high-performance querying.</li>
-        <li><b>Tech:</b> React / Next.js, Node.js, Express, MongoDB / SQL</li>
+        <li><b>Key Features:</b> Multi-portal UI (Customer, Kitchen Display System - KDS, Logistics Rider Dispatch, Admin Dashboard), interactive Leaflet map delivery tracking, hybrid MongoDB datastore.</li>
+        <li><b>Tech Stack:</b> Next.js 16, React 19, TypeScript, Tailwind CSS, MongoDB / Mongoose, Leaflet Maps</li>
       </ul>
       <p>
-        <a href="#">🔗 <b>Live Demo</b></a> • <a href="#">💻 <b>GitHub Repo</b></a>
+        <a href="https://restuarent-website-flax.vercel.app/" target="_blank">🔗 <b>Live Demo</b></a> • <a href="https://github.com/grontho69/restuarent-website" target="_blank">💻 <b>GitHub Repo</b></a>
       </p>
     </td>
   </tr>
@@ -152,12 +157,12 @@ I am a passionate **Full Stack Developer** based in **Kushtia, Bangladesh**. I s
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grontho69&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mahathir's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grontho69&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=grontho69&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mahathir's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=grontho69&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grontho69&theme=radical&hide_border=true" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=grontho69&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -171,7 +176,7 @@ I am a passionate **Full Stack Developer** based in **Kushtia, Bangladesh**. I s
   <a href="https://devmahathir.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="mailto:mahathirm880@gmail.com" target="_blank">
+  <a href="mailto:mahathirm880@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/mahathirgrontho201" target="_blank">
